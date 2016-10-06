@@ -19,11 +19,11 @@ author:
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-43475515-2"
 
 # Disqus
 disqus:
-  id:               ""
+  id:               "kahwooi"
 
 # URL
 url:                "https://kahwooi.github.io"
