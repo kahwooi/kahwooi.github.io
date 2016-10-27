@@ -18,7 +18,7 @@ following the shared conventions.
 created by Omniti that lays down rules for how JSON message response from web API should be 
 formatted. It focuses on application level messaging which make it ideal for REST APIs.
 
-### How do response a JSend-compliant message using Express?
+### How to response a JSend-compliant message using Express?
 
 A simple Express app response with a succesful JSend-compliant message:
 
